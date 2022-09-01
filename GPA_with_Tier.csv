@@ -1,0 +1,123 @@
+School name,Country,Intl GPA,US GPA,Tier
+Aligarh Muslim University,India,10/8.5/7/6.5/6/4,4.0/3.6/3.3/3.0/2.5/1.0,Tier III College
+Amity University,India,10/8.5/6.5/6.0,4.0/3.6/3.0/2.0,Tier III College
+"Anna University, Chennai",India,10/9/8/7/6,4.0/3.7/3.0/2.0/1.7,Tier III College
+B.S. Abdur Rahman University,India,10/8/7/6,4.0/3.0/2.0/1.0,Tier III College
+Banasthali University,India,100/60/48/36,4.0/3.6/3.0/2.0,Tier III College
+"Biju Patnaik University of Technology, Odisha Rourkela",India,10/8/7/6,4.0/3.6/3.0/2.0,Tier III College
+Birla Institute of Technology,India,10/7/6/5,4.0/3.6/3.0/2.0,Tier III College
+"Birla Institute of Technology and Science, Pilani (Rajasthan)",India,10/9/7/4.5,4.0/3.6/3.0/2.0,Tier III College
+"BMS College of Engineering, Bangalore",India,10/7.75/6.75/5.75,4.0/3.6/3.0/2.0,Tier III College
+Chaitanya Bharathi Institue of Technology,India,10/9/8/7/6/5.5/5/4.01,4.0/3.9/3.8/3.7/3.6/3.5/3.0/2.0,Tier II College
+Charotar University of Science and Technology,India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+Chhattisgarh Swami Vivekanand Technical University,India,10/9/8/7/6,4.0/3.7/3.3/3.0/2.3,Tier III College
+Chitkara University,India,10/9/8/7/6.5/6/5/4.5/4/2,4.0/3.8/3.7/3.3/3.0/2.7/2.3/2.0/1.7/1.0,Tier II College
+Coimbatore Institute of Technology,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+"College of Engineering, Pune",India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+Cummins College of Engineering for Women,India,100/66/60/55/50/40,4.0/3.6/3.0/2.7/2.3/2.0,Tier III College
+D.Y. Patil,India,7/6/5/4/3/2/1,4.0/3.9/3.7/3.3/3.0/2.3/2.0,Tier II College
+Datta Meghe College of Engineering - 10-point scale,India,10/8.25/7.75/7.25/6.75,4.0/3.7/3.3/3.0/2.0,Tier III College
+Datta Meghe College of Engineering - 100-percentage scale,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+Dayananda Sagar College of Engineering,India,10/9/8/7/6,4.0/3.8/3.6/3.0/2.0,Tier III College
+DEFAULT India - 10-point scale,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+"DEFAULT India - Other Traditional Patterns (B.Engr, B.Arch)",India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+"DEFAULT India - Predominant (BS, BSc, MA, MSc)",India,100/60/45/33,4.0/3.6/3.0/2.0,Tier III College
+Delhi Technological University,India,100/75/60/50/40,4.0/3.6/3.0/2.0/1.0,Tier III College
+Dharmsinh Desai University,India,10/7.5/7/6,4.0/3.6/3.0/2.0,Tier III College
+Dhirubhai Ambani Institute of Information and Communication Technology,India,10/9/8/7/6,4.0/3.6/3.0/2.6/2.0,Tier III College
+Don Bosco Institute of Technology,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+DRAPJ Abdul Kalam Technical University,India,100/75/60/50,4.0/3.6/3.0/2.0,Tier III College
+Dwarkadas J. Sanghvi College of Engineering,India,10/9/8/7,4.0/3.7/3.0/2.0,Tier III College
+Fr Conceicao Rodrigues College of Engineering,India,10/9/8/7/6,4.0/3.7/3.3/2.3/2.0,Tier III College
+Gandhi Institute of Technology and Management,India,10/8/7/6/5,4.0/3.7/3.3/3.0/2.0,Tier III College
+Ganpat University,India,10/8/7/6/5,4.0/3.6/3.3/3.0/2.3/2.0,Tier III College
+Goa University,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+Govind Ballabh Pant University of Agriculture and Technology,India,10/7.75/6.75/6,4.0/3.6/3.0/2.0,Tier III College
+"Gujarat Technological University, Ahmedabad",India,10/7.1/6.5/5.5,4.0/3.6/3.0/2.0,Tier III College
+"Guru Gobind Singh Indraprastha University, Delhi",India,100/75/60/50,4.0/3.6/3.0/2.0,Tier III College
+"Indian Institute of Engineering Science and Technology, Shibpur",India,10/8/7/6,4.0/3.6/3.0/2.0,Tier III College
+"Indian Institute of Information Technology, Design and Manufacturing Jabalpur",India,10/9/8/7/6,4.0/3.7/3.3/3.0/2.3,Tier III College
+Indian Institute of Science,India,8/7/6/5/4,4.0/3.7/3.3/3.0/2.0,Tier III College
+Indian Institute of Science Education and Research,India,10/9/8/7/6,4.0/3.0/2.0,Tier I College
+Indian Institute of Space Science and Technology,India,10/9/8/7,4.0/3.7/3.0/2.0,Tier I College
+Indian Institute of Technology,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology (Banaras Hindu University),India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Delhi,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Hyderabad,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Kanpur,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Mandhi,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Roorkee,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+Indian Institute of Technology Ropar,India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier I College
+"Indian Institute of Technology, Kharagpur",India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier III College
+"Indian Institute of Technology, Madras",India,10/9.75/9.5/9.25/9/8.75/8.5/8.25/8/7.75/7.5/7.25/7/6.75/6.5/6.25/6/5.75/5.5/5.25/5,4.0/3.93/3.87/3.81/3.74/3.67/3.6/3.52/3.45/3.38/3.3/3.23/3.15/3.08/3.0/2.83/2.66/2.5/2.33/2.17/2.0,Tier III College
+Indian School of Mines,India,10/9/8/7/6/5,4.0/3.6/3.3/3.0/2.3/2.0,Tier III College
+Institute of Chemical Technology,India,10/9/8/7/6.5,4.0/3.6/3.0/2.5/2.0,Tier III College
+Jain University,India,10/7.5/7/6.5/6/5.5,4.0/3.6/3.3/3.0/2.3/2.0,Tier III College
+Jawaharlal Nehru Engineering College,India,100/66/60/50,4.0/3.6/3.0/2.0,Tier III College
+Jaypee Institute of Information Technology,India,10/9/8/7/6/5,4.0/3.6/3.3/3.0/2.3/2.0,Tier III College
+JSS Science and Technology University,India,10/7.75/6.75/5,4.0/3.6/3.0/2.0,Tier III College
+Kalinga Institute of Industrial Technology,India,10/9/8/7/6/5,4.0/3.7/3.3/3.0/2.0/1.0,Tier III College
+Karunya University,India,10/8/7/6,4.0/3.6/3.0/2.0,Tier III College
+KC College of Engineering and Management Studies and Research,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+KJ Somaiya College of Engineering,India,10/9/8/7/6/5,4.0/3.7/3.3/3.0/2.3/2.0,Tier III College
+KJ Somaiya Institute of Engineering and Information Technology,India,100/60/50/40,4.0/3.6/3.0/2.0,Tier III College
+KK Wagh Institute of Engineering Education and Research,India,100/66/60/55/50,4/3.6/3.0/2.7/2.0,Tier III College
+Kumaraguru College of Technology,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Lovely Professional University,India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+Maharashtra State Board of Technical Education,India,100/75/60/45,4.0/3.6/3.0/2.0,Tier III College
+"Malviya National Institute of Technology, Jaipur",India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+Manipal Institute of Technology,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Manipal University,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+"Maulana Abul Kalam Azad University of Technology, West Bengal",India,10/8/7/6,4.0/3.6/3.0/2.0,Tier III College
+Maulana Azad National Institute of Technology,India,10/8/7/6/5,4.0/3.6/3.3/3.0/2.0,Tier III College
+Motilal Nehru National Institute of Technology,India,10/9/8/7/6,4.0/3.7/3.3/3.0/2.0,Tier III College
+National Institute of Technology,India,10/8.5/6.5,4.0/3.6/3.0,Tier III College
+National Institute of Technology Calicut,India,10/8/6.5/5,4.0/3.6/3.0/2.0,Tier III College
+National Institute of Technology Durgapur,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+National Institute of Technology Goa,India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier II College
+National Institute of Technology Hamirpur,India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+"National Institute of Technology Karnataka, Surathkal",India,10/6.5/5.5,4.0/3.0/2.0,Tier III College
+National Institute of Technology Raipur,India,10/9/8/7/6/5,4.0/3.6/3.3/3.0/2.7/2.0,Tier III College
+National Institute of Technology Rourkela,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+National Institute of Technology Silchar,India,10/9/8/7/6,4.0/3.7/3.0/2.7/2.0,Tier III College
+National Institute of Technology Warangal,India,10/8/6.5/5,4.0/3.6/3.0/2.0,Tier III College
+Navrachana University,India,10/9/8/7/6/5/4,4.0/3.6/3.0/2.5/2.0/1.5/1.0,Tier III College
+Netaji Subhas Institute of Technology,India,100/75/60/50,4.0/3.6/3.0/2.0,Tier III College
+Nirma Institute of Technology,India,10/9/8/7/6,4.0/3.7/3.3/3.0/2.5,Tier III College
+Osmania University,India,100/75/60/45/40,4.0/3.6/3.0/2.0/1.0,Tier III College
+Padmabhushan Vasantdada Patil Pratishthan's College of Engineering,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+Pandit Deendayal Petroleum University,India,10/9/8/7/6/5,4.0/3.9/3.6/3.3/3.0/2.0,Tier III College
+Panjab University,India,10/9/8/7/6/5,4.0/3.6/3.3/3.0/2.3/2.0,Tier III College
+PES Institute of Technology,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+PES University,India,10/9.5/7.75/6.75/5.75,4.0/3.9/3.6/3.0/2.0,Tier III College
+PSG College of Technology,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Pune Institute of Computer Technology,India,100/66/60/55/50,4.0/3.6/3.3/3.0/2.0,Tier III College
+Rajiv Gandhi Institute of Technology,India,10/9/8/7/6,4.0/3.6/3.0/2.0/1.0,Tier III College
+Rajiv Gandhi Proudyogiki Vishwavidyalaya,India,10/7.5/6.5/5.0,4.0/3.6/3.0/2.0,Tier III College
+Rajiv Gandhi Proudyogiki Vishwavidyalaya - 100-point scale,India,100/75/65/45,4.0/3.6/3.0/2.0,Tier III College
+Ramaiah Institute of Technology,India,10/9/8/7/5,4.0/3.6/3.0/2.0/1.0,Tier III College
+Ramnarian Ruia College,India,7/6/5/4,4.0/3.6/3.0/2.0,Tier III College
+Rizvi College of Engineering,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+RKN Engg College,India,100/75/60/50,4.0/3.6/3.0/2.0,Tier II College
+"RV College of Engineering, Bengaluru",India,10/9/8/7,4.0/3.7/3.0/2.0,Tier III College
+Sardar Patel College of Engineering,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Sardar Patel Institute of Technology - 10-point scale,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Sardar Patel Institute of Technology - Percentage Scale,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+Sardar Vallabhbhai National Institute of Technology,India,10/9/8/7/6,4.0/3.6/3.0/2.6/2.0,Tier III College
+Sastra University,India,10/8/7/6,4.0/3.6/3.0/2.0,Tier II College
+Sathyabama University,India,10/9/8/7/6,4.0/3.7/3.3/3.0/2.0,Tier III College
+Savitribai Phule Pune University (formerly University of Pune),India,100/66/60/55/50,4.0/3.6/3.0/2.7/2.0,Tier III College
+Shiv Nadar University,India,10/8.5/7.5/6.5/5.5,4.0/3.7/3.0/2.7/2.0,Tier III College
+Shivajirao S Jondhale College of Engineering,India,10/9/8/7,4.0/3.6/3.0/2.0,Tier III College
+Shri Guru Gobind Singhji Institute of Engineering and Technology,India,10/9/8/7/6/5/4,4.0/3.7/3.3/3.0/2.3/2.0/1.0,Tier III College
+Shri Ramdeobaba College of Engineering and Management,India,10/9/8/7/6,4.0/3.6/3.0/2.7/2.0,Tier II College
+SIES Graduate School of Technology,India,10/9/8/7,4.0/3.7/3.0/2.0,Tier III College
+Sinhgad Institute of Technology,India,100/60/55/50/40,4.0/3.6/3.3/3.0/2.0,Tier III College
+Sri Jayachamarajendra College of Engineering,India,10/7.75/6.75/5,4.0/3.6/3.0/2.0,Tier III College
+SRM Institute of Science and Technology,India,10/9/8/7/6/5,4.0/3.9/3.6/3.3/3.0/2.0,Tier III College
+SRM University,India,10/9/8.5/8/7.5/7/6.5,4.0/3.7/3.3/3.0/2.7/2.3/2.0,Tier III College
+St Francis Institute of Technology,India,100/60/50/40,4.0/3.6/3.0/2.0,Tier III College
+Symbiosis International University,India,10/9/8/7/6/5,4.0/3.9/3.6/3.3/3.0/2.0,Tier III College
+Thadomal Shahani Engineering College,India,10/9/8/7/6/5,4.0/3.7/3.3/3.0/2.3/2.0,Tier III College
+Thakur College of Engineering and Technology,India,100/70/60/50,4.0/3.6/3.0/2.0,Tier III College
+Thapar Institute of Engineering and Technology,India,100/70/60/50,4.0/3.0/2.0,Tier III College
